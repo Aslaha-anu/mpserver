@@ -15,7 +15,7 @@ const Mpserver=jsonServer.create()
 //  set up router for json file in server
 
 
- const route=jsonServer.router('db-json')
+ const route=jsonServer.router('db.json')
 
 // set port for running server app
 
